@@ -89,6 +89,10 @@ h1, h2{
   text-decoration: none;
 }
 
+.nav-links span{
+	color: #14e9b6;
+}
+
 .nav-link:hover{
   text-decoration: underline;
   color: white;
