@@ -46,25 +46,14 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-
-
 h1, h2{
   font-family: 'Roboto Condensed', sans-serif;
-
 }
-
-
-
 /* Header */
 .site-header{
   background-color: #03151c;
   height: 76px;
 }
-
-
-
-
 .logo{
   display: inline-block;
   float: left;
@@ -91,12 +80,10 @@ h1, h2{
   color: white;
   transition-duration: 200ms;
 }
-
 .nav-links li{
   display: inline-block;
   padding: 25px 20px;
 }
-
 /* Hero Section */
 .hero{
 	background-image: url('images/hero.jpg');
@@ -109,7 +96,6 @@ h1, h2{
 	align-items: center;
 	justify-content: center;
 }
-
 .hero-heading,
 .subheading {
 	font-family: 'Roboto Condensed', sans-serif;
